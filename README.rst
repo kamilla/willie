@@ -1,6 +1,7 @@
 Introduction
 ------------
 
+This is a #jamk fork of embolalia/willie on Eiffel Forum License, version 2.
 Willie is a simple, lightweight, open source, easy-to-use IRC Utility bot,
 written in Python. It's designed to be easy to use, run and extend.
 
@@ -20,7 +21,7 @@ source below.
 Latest source
 =============
 First, either clone the repository with ``git clone
-git://github.com/embolalia/willie.git`` or download a tarball from GitHub.
+git://github.com/kamilla/willie.git`` or download a tarball from GitHub.
 
 In the source directory (whether cloned or from the tarball) run
 ``setup.py install``. You can then run ``willie`` to configure and start the
